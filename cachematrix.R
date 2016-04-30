@@ -1,5 +1,5 @@
 ## This function creates a matrix and funtions to access matrix data
-#extra comment
+
 makeCacheMatrix <- function(x = matrix()){
 	m <- NULL
 	set <- function(y){
